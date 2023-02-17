@@ -1,0 +1,14 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "v2ray": {
+      "name": "v2ray",
+      "command": "/usr/local/v2ray/v2ray -config=/etc/v2ray/config.json",
+      "runAtStart": true
+    }
+  }
+}
+
