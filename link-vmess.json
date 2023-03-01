@@ -1,0 +1,16 @@
+{
+  "add": "ADDRESS",
+  "sni": "ADDRESS",
+  "host": "ADDRESS",
+  "aid": "0",
+  "alpn": "",
+  "id": "UUID",
+  "net": "ws",
+  "path": "/",
+  "port": "443",
+  "ps": "csb-vmess",
+  "scy": "auto",
+  "tls": "tls",
+  "type": "",
+  "v": "2"
+}
